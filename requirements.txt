@@ -1,6 +1,7 @@
+streamlit
 torch
 torchvision
 mitdeeplearning
-streamlit
-pillow
+comet_ml
 matplotlib
+tqdm
