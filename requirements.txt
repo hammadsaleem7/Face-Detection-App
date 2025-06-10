@@ -1,7 +1,7 @@
 streamlit
-torch
-torchvision
-mitdeeplearning
-comet_ml
+torch==2.1.2
+torchvision==0.16.2
 matplotlib
 tqdm
+numpy
+mitdeeplearning @ git+https://github.com/aamini/introtodeeplearning.git
